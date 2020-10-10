@@ -1,0 +1,16 @@
+{
+  "name": "Projeto1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDjestependencies": {
+    "@types/jest": "^26.0.14",
+    "jest": "^26.5.2"
+  }
+}
